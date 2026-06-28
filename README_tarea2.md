@@ -18,3 +18,4 @@ El programa calcula el Impuesto Sobre la Renta (ISR) que debe pagar un empleado,
 ## ¿Qué datos imprime?
 - El sueldo del empleado.
 - El monto de ISR a pagar (o "N/A" si el sueldo está exento de este impuesto).
+<img width="1090" height="918" alt="WhatsApp Image 2026-06-28 at 12 05 07" src="https://github.com/user-attachments/assets/b29c3e82-4e0e-4771-aa78-a7ea5c2012ec" />
