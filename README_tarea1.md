@@ -18,3 +18,4 @@ El programa calcula la cuota mensual que debe pagar una persona por un préstamo
 - La tasa de interés anual.
 - El tiempo a pagar en meses.
 - La cuota mensual a pagar.
+<img width="690" height="897" alt="WhatsApp Image 2026-06-28 at 14 13 27" src="https://github.com/user-attachments/assets/9e2ca468-0354-49c1-8918-2d23cedf9a3d" />
